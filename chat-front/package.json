@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "~4.11.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^1.0.17",
+    "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "6.11.1",
+    "npm": "5.5.1"
+  },
+  "devDependencies": {},
+  "author": "Vivien Adnot <vivien.adnot@gmail.com>",
+  "description": "Un chat server avec socket.io",
+  "license": "BSD",
+  "main": "app-chat.js",
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
